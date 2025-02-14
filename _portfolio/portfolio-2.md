@@ -1,3 +1,4 @@
+---
 title: "YOLO V8 Drone Object Detection"
 excerpt: "https://www.youtube.com/watch?v=9GzC-r_-KFA"
 collection: portfolio
