@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: Reponsible for test model with turtlebot.
 
 date: 2023-11-22
-venue: ''
+venue: 'ICCPS '
 paperurl: 'https://arxiv.org/pdf/2311.10863'
 citation: ''
 ---
