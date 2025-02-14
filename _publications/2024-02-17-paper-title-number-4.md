@@ -1,6 +1,5 @@
 ---
 title: ""Verified Compositional Neuro-Symbolic Control for Stochastic Systems with Temporal Logic Tasks"
-
 collection: publications
 category: journal
 permalink: /publication/2024-02-17-paper-title-number-4
