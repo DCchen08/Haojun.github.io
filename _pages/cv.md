@@ -12,16 +12,16 @@ redirect_from:
 Education
 ======
 * M.S. in Mechanical Engineer, Washington University in St.Louis, 2022
-* B.S. in Mechanical Engineer, University in California, Irvine, 2021
+* B.S. in Mechanical Engineer, University of California, Irvine, 2021
 
 Work experience
 ======
 * Fall 2022: Grader for Control Theory Class
-  * Washington University in St.Louis University
+  * Washington University in St.Louis 
   * Duties includes: Graded the Assignment and exam. Holded the office hour for Q&A.
 
 * Spring 2022: Grader for Control Theory Class
-  * Washington University in St.Louis University
+  * Washington University in St.Louis 
   * Duties includes: Graded the Assignment and exam. Holded the office hour for Q&A.
 
   
