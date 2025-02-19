@@ -12,7 +12,7 @@ title                    : "Haojun Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://dcchen08.github.io/Haojun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Haojun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://dcchen08.github.io/Haojun.github.io"
 
@@ -21,7 +21,7 @@ repository               : "https://dcchen08.github.io/Haojun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "111.png"
   name             : "Haojun Chen"
   # pronouns         : # example: "she/her"  
   bio              : "Master Student at Washington University in St. Louis (WUSTL)"
